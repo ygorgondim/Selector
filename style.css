@@ -22,6 +22,8 @@
 
 .select {
   padding: 6rem;
+  max-width: 588px;
+  margin: 56px auto auto auto;
 }
 
 #category-select label {
@@ -33,7 +35,7 @@
   margin-top: .5rem;
   display: flex;
   padding: 0.75rem;
-  slign-items: center;
+  align-items: center;
   justify-content: space-between;
 
   border-radius: .375rem;
